@@ -33,8 +33,6 @@ Task2 UDP Socket Programming —— README
 三、文件清单
  udpclient.py                     客户端源代码
  udpserver.py                    服务端源代码
- run_log.txt                        运行后生成，带时间戳的客户端运行日志
- run_log_server.txt             运行后生成，带时间戳的服务器端运行日志
  udp_packet_capture.docx  说明文档（含 Wireshark 抓包分析、关键点与代码实现）
  readme.txt                        本说明文件
 
