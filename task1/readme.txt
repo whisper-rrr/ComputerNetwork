@@ -27,10 +27,6 @@ Task1 TCP Socket Programming —— README
 三、文件清单
   reversetcpserver.py         服务端源代码
   reversetcpclient.py          客户端源代码
-  input.txt                          待反转的输入文件（由用户自备）
-  reversed_output.txt         运行后生成，整体反转结果
-  run_log.txt                       运行后生成，带时间戳的客户端运行日志
-  run_log_server.txt            运行后生成，带时间戳的服务器端运行日志
   tcp_packet_capture.docx  说明文档（含 Wireshark 抓包分析）
   readme.txt                      本说明文件
 
